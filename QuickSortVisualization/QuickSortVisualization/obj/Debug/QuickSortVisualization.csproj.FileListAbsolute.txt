@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\QuickSortVisualization\QuickSortVisualization\bin\Debug\QuickSortVisualization.exe.config
+c:\users\user\documents\visual studio 2013\Projects\QuickSortVisualization\QuickSortVisualization\bin\Debug\QuickSortVisualization.exe
+c:\users\user\documents\visual studio 2013\Projects\QuickSortVisualization\QuickSortVisualization\bin\Debug\QuickSortVisualization.pdb
+c:\users\user\documents\visual studio 2013\Projects\QuickSortVisualization\QuickSortVisualization\obj\Debug\QuickSortVisualization.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\QuickSortVisualization\QuickSortVisualization\obj\Debug\QuickSortVisualization.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\QuickSortVisualization\QuickSortVisualization\obj\Debug\QuickSortVisualization.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\QuickSortVisualization\QuickSortVisualization\obj\Debug\QuickSortVisualization.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\QuickSortVisualization\QuickSortVisualization\obj\Debug\QuickSortVisualization.exe
+c:\users\user\documents\visual studio 2013\Projects\QuickSortVisualization\QuickSortVisualization\obj\Debug\QuickSortVisualization.pdb
